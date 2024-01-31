@@ -35,5 +35,6 @@ NO CONTACT
 ## Intellectual Property
 
 Because we do not believe in intellectual property rights, feel free to use our projects for whatever reason.
+
 Happy coding!
 
